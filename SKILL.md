@@ -3,8 +3,9 @@ name: topical-monologue-builder
 description: Transform current news events into rapid-fire comedy monologue using Bob Hope's topical immediacy technique. This skill structures headlines into comedic material that feels fresh, immediate, and u...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5208
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
